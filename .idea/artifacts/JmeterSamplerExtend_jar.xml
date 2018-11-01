@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JmeterSamplerExtend:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JmeterSamplerExtend_jar</output-path>
+    <root id="archive" name="JmeterSamplerExtend.jar">
+      <element id="module-output" name="JmeterSamplerExtend" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ApacheJmeter32/lib/ext/ApacheJMeter_java.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ApacheJmeter32/lib/ext/ApacheJMeter_core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
